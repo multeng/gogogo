@@ -6,4 +6,5 @@ import (
 
 func main() {
 	module4.Task1()
+	module4.Task2()
 }
